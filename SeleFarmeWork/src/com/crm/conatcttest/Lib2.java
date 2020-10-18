@@ -15,5 +15,8 @@ public class Lib2 {
 
 		System.out.println("step-1 ");
 		System.out.println("step-2 ");
+		
+		System.out.println("step-7 ");
+		System.out.println("step-8 ");
 	}
 }
